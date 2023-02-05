@@ -5,25 +5,25 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1,SCTV HD
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1,METRO TV HD http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1,METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1,NET TV http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1,NET TV HD http://id2.indostreamingtv.com/live/nettv/index.m3u8
+#EXTINF:-1,NET TV HD
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
-#EXTINF:-1,CNN https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1,CNBC https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1,CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1,ANTV http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1,ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1,INDOSIAR http://id1.indostreamingtv.com/live/indosiar/index.m3u
+#EXTINF:-1,INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u
-#EXTINF:-1,INDOSIAR HD http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1,INDOSIAR HD
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1,TRANS 7 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#EXTINF:-1,TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:-1,TV ONE http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1,TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1,TRANS TV + http://id2.indostreamingtv.com/live/tv33/index.m3u8
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
@@ -45,57 +45,57 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:-1,JGO http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1,group-title="LOKAL"MNCTV http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCTV http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1,group-title="LOKAL"GLOBALTV http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1 group-title="LOKAL",GLOBALTV http://id6.indostreamingtv.com/live/tv1/index.m3u8
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1,group-title="LOKAL"RCTI http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1 group-title="LOKAL",RCTI http://id6.indostreamingtv.com/live/rcti/index.m3u8
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TRANS7 http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TRANS7 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TVONE https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TVONE https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"METROTV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
+#EXTINF:-1 group-title="LOKAL",METROTV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
-#EXTINF:-1,group-title="LOKAL"INEWSTV https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
+#EXTINF:-1 group-title="LOKAL",INEWSTV https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
 https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"RTV http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 group-title="LOKAL",RTV http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
 http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1,group-title="LOKAL"CNN TV https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
+#EXTINF:-1 group-title="LOKAL",CNN TV https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
-#EXTINF:-1,group-title="LOKAL"INDOSIAR http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 group-title="LOKAL",INDOSIAR http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1,group-title="LOKAL"SCTV https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1 group-title="LOKAL",SCTV https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
 https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TVRI https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:-1 group-title="LOKAL",TVRI https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
 https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
-#EXTINF:-1,group-title="LOKAL"MNCSPORT https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
+#EXTINF:-1 group-title="LOKAL",MNCSPORT https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"IDXTV https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8
+#EXTINF:-1 group-title="LOKAL",IDXTV https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"JAKTV https://cdn-livetv1.metube.id/hls/jaktv_480/536549.ts
+#EXTINF:-1 group-title="LOKAL",JAKTV https://cdn-livetv1.metube.id/hls/jaktv_480/536549.ts
 https://cdn-livetv1.metube.id/hls/jaktv_480/536549.ts
-#EXTINF:-1,group-title="LOKAL"JTV https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8
+#EXTINF:-1 group-title="LOKAL",JTV https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8
-#EXTINF:-1,group-title="KID"DISNEY JUNIOR http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KID",DISNEY JUNIOR http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1,group-title="KID"DUCK TV http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 group-title="KID",DUCK TV http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1,group-title="KID"EBS TV http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="KID",EBS TV http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,group-title="KID"MYKIDS http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 group-title="KID",MYKIDS http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1,group-title="KID"ANIMAX http://210.210.155.35/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 group-title="KID",ANIMAX http://210.210.155.35/dr9445/h/h144/index2.m3u8
 http://210.210.155.35/dr9445/h/h144/index2.m3u8
-#EXTINF:-1,group-title="KID"MIAOMI https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 group-title="KID",MIAOMI https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"MY CINEMA http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="MOVIE STREAMING",MY CINEMA http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"RAY MOVIE http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="MOVIE STREAMING",RAY MOVIE http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"CALESTIAL MOVIE http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="MOVIE STREAMING",CALESTIAL MOVIE http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"KIX http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="MOVIE STREAMING",KIX http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1,NET
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
