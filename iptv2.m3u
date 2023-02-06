@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1,NET TV
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,NET TV HD
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
