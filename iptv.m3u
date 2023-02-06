@@ -585,5 +585,5 @@ https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1,Miami TV http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="News",ABC News Live
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/abc.news.live.us.m3u8?checkedby:iptvcat.com
